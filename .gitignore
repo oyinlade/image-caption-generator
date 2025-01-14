@@ -1,3 +1,10 @@
+# Project specific
+data/
+checkpoints/
+*.pth
+.env
+logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
